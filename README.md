@@ -1,2 +1,2 @@
-# Main.github.io
+# main.github.io
 1-host
